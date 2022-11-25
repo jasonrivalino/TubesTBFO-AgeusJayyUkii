@@ -10,7 +10,7 @@ Membuat Parser Bahasa JavaScript dengan Bahasa Pemrograman Python
 * [Authors](#authors)
 
 ## General Information
-
+Dalam proses pembuatan program yang dapat dieksekusi menjadi mesin, kita memerlukan pemeriksaan sintaks (parser) agar program dapat dijalankan dengan baik dan tidak mengalami error saat proses kompilasi (compiling) oleh komputer. Pada tugas besar ini, kami membuat parser untuk JavaScript (NODE.js) dengan menggunakan CFG sebagai grammar dan CYK sebagai alghoritma untuk melakukan parsing.
 
 ## Struktur Data
 
